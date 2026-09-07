@@ -1,4 +1,4 @@
-Emergence — feedback-001
+Emergence — feedback-002
 
 Game design, writing, code, procedural audio and original visual work developed for this project with specialist AI-assisted production and human direction.
 
@@ -6,9 +6,11 @@ Engine: Godot 4.7.2, MIT license.
 https://godotengine.org/license/
 The full engine license and third-party notices are included in licenses/.
 
-Ilan character foundation and selected graphical assets: MakeHuman Community / MPFB, CC0. Customized anatomy, clothing, materials and pose for Emergence.
+Legacy character foundation and selected graphical assets: MakeHuman Community / MPFB, CC0. Customized anatomy, clothing, materials and pose for Emergence.
 https://static.makehumancommunity.org/mpfb.html
 https://creativecommons.org/publicdomain/zero/1.0/
 Blender and MPFB are development tools and are not bundled in this download.
 
 Game source is maintained separately from this public download repository. Engine and asset notices describe those components and do not grant a blanket license to the game.
+
+Current low-poly market cast, workshop architecture, tool/enemy presentation and player-feedback audio include original project-created work.
