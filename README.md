@@ -2,15 +2,17 @@
 
 An original first-person immersive sim set in a strange cyberpunk market. Find a way through to transit, talk to its residents, and experiment with the physical systems around you.
 
-**[Download the feedback build](https://github.com/krisciu/emergence-playtest/releases/tag/feedback-001)** · [Play guide](PLAY-GUIDE.md) · [Leave feedback](https://github.com/krisciu/emergence-playtest/issues/new?template=playtest.md)
+**[Download the feedback build](https://github.com/krisciu/emergence-playtest/releases/tag/feedback-002)** · [Play guide](PLAY-GUIDE.md) · [Leave feedback](https://github.com/krisciu/emergence-playtest/issues/new?template=playtest.md)
 
-This is an early playable prototype. Environment art, character animation and difficulty are unfinished. We'd like you to try it for about ten minutes and tell us where it clicks and where it doesn't.
+This is an improved feedback prototype. Environment art, character animation and difficulty are unfinished. We'd like you to try it for about ten minutes and tell us where it clicks and where it doesn't.
 
 The macOS package contains both Apple Silicon and Intel executables; development checks were performed on Apple Silicon. The Windows package targets 64-bit Intel/AMD PCs and has not yet been played on Windows. These are standalone downloads; you don't need Godot or the source repository.
 
-![The repair shop in the current early build](images/repair-shop.png)
+![The outdoor market in feedback-002](images/market-feedback-002.png)
 
-*Current early-build scene; UI omitted from this capture.*
+*Actual feedback-002 scene and UI, captured with the world paused; not gameplay footage.*
+
+Start a new market run for this build; old saves can retain earlier encounter state.
 
 ## Start playing
 
@@ -30,6 +32,6 @@ The Windows build is unsigned. Windows may show a publisher/reputation warning o
 - What was your best moment and your least enjoyable moment?
 - Did you reach an exit? Did anything crash or make the controls difficult?
 
-[Open a feedback issue](https://github.com/krisciu/emergence-playtest/issues/new?template=playtest.md), or send your notes to the person who shared the build. A GitHub account is needed to open an issue. Please include your build number (**feedback-001**), operating system and computer/GPU if reporting a technical problem. Mark story spoilers so other players can discover things themselves.
+[Open a feedback issue](https://github.com/krisciu/emergence-playtest/issues/new?template=playtest.md), or send your notes to the person who shared the build. A GitHub account is needed to open an issue. Please include your build number (**feedback-002**), operating system and computer/GPU if reporting a technical problem. Mark story spoilers so other players can discover things themselves.
 
 This public repository hosts the play guide, feedback and compiled downloads. [Credits and engine notices](CREDITS.txt).
